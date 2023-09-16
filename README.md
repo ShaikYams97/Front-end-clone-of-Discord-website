@@ -1,0 +1,2 @@
+# Front-end-clone-of-Discord-website
+INSTALL NODE.JS AND TAILWINDCSS TO USE THIS CODE IN YOUR IDE.
